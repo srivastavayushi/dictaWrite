@@ -1,1 +1,1 @@
-# dictaWrite
+# dictawrite
